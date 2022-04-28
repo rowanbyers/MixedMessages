@@ -1,0 +1,18 @@
+body {
+    background: #f3f3f3;
+    background: url(https://media.istockphoto.com/photos/blank-daily-newspaper-picture-id503149471?s=612x612) no-repeat fixed center; 
+    margin-top: 50px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    color: #001;
+}
+
+#headline {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
