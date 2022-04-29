@@ -8,3 +8,4 @@ I belive there is a more concice way to concate the two oject arrays in newMain.
 
 CSS Applied using image hosted remotely. index.html has changed, main.js is unedited but now redundent.
 -Rowan>
+<img width="741" alt="Screen Shot 2022-04-28 at 2 29 06 PM" src="https://user-images.githubusercontent.com/100328281/165871633-88fc1c60-de2e-4119-bf84-462a2827efe1.png">
